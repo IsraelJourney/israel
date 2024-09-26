@@ -2,4 +2,4 @@
 ## progammer
 ### python
 #### MYSQL
-~lol
+` for i in foo :pass`
